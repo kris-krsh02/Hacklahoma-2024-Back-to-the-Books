@@ -1,4 +1,4 @@
-# Back to the Books
+# Back to the Books - Second Place Winner
 -A 2024 Hacklahoma Project
 
 Demo: https://www.youtube.com/watch?v=ia442xuRYOM
